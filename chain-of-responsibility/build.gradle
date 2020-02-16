@@ -3,6 +3,10 @@ apply plugin: "application"
 
 def junitJupiterVersion = '5.6.0'
 
+group = 'com.jos.dem.design.pattern.chain'
+version = '1.0.0-SNAPSHOT'
+sourceCompatibility = 12
+
 repositories {
     mavenCentral()
 }
